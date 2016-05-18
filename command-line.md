@@ -6,3 +6,4 @@ rm <name>: deletes the specified file
 cd <name>: changes location into the directory specified after the 'cd' instruction  
 cd ..: Moves one's location to the parent directory (up-one-level)  
 touch <name>: creates a file with the specified name  
+mv <original item path> <new item path>: Used to move file from one directory to another, but can also be used to rename a file if same location is specified for both original and final paths  

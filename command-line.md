@@ -10,5 +10,5 @@ pwd: displays current location of user
 man (command): When used before a command, it displays the description of the command and any options allowed in conjunction with the command.  
 clear: clears the current terminal screen  
 cp (original item path) (new item path): Used to copy file from one location to another, but can also be used to copy a directory by using the 'cp -r' prefix instead of 'cp'.  
-git init: re/initializes git directory in current location to make computer aware that this directory can be used with git
+git init: re/initializes git directory in current location to make computer aware that this directory can be used with git  
 'Up arrow': Access history of previously typed commands. Can also use 'down arrow' after using 'up arrow' to scroll through the history.  
